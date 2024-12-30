@@ -1,0 +1,4 @@
+../Core/Src/mylib.c:16:5:__io_putchar	16	static
+../Core/Src/mylib.c:22:5:__io_getchar	16	static
+../Core/Src/mylib.c:31:6:Wait	8	static
+../Core/Src/mylib.c:36:6:ProgramStart	16	static

@@ -1,0 +1,4 @@
+../Core/Src/mylib.c:16:5:__io_putchar	1
+../Core/Src/mylib.c:22:5:__io_getchar	3
+../Core/Src/mylib.c:31:6:Wait	2
+../Core/Src/mylib.c:36:6:ProgramStart	1
